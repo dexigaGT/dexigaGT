@@ -1,6 +1,6 @@
 ## Hi, I'm David Exiga 👋
 
-I'm an AI Engineer working on computer vision, 3D perception, and reinforcement learning. Currently, I'm pursuing my master's in Computer Science at Georgia Tech with an expected graduation in December 2026.
+I'm an AI Engineer working on computer vision, 3D perception, and high performance computing. Currently, I'm pursuing my master's in Computer Science at Georgia Tech with an expected graduation in December 2026.
 Website: [davidexiga.com](https://www.davidexiga.com)
 
 ### Projects
