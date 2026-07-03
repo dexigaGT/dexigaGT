@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# David Exiga
+## Hi, I'm David Exiga 👋
 
 AI Engineer working on computer vision, 3D perception, and reinforcement learning.
 Website: [davidexiga.com](https://www.davidexiga.com)
